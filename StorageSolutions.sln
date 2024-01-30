@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root Files", "Root Files", "{4649CD98-2EBE-4E92-9B92-113332C0A40D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		NuGet.Config = NuGet.Config
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageSolutions", "StorageSolutions\StorageSolutions.csproj", "{42381A41-880E-4567-85CA-F3D45AB56331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42381A41-880E-4567-85CA-F3D45AB56331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42381A41-880E-4567-85CA-F3D45AB56331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42381A41-880E-4567-85CA-F3D45AB56331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42381A41-880E-4567-85CA-F3D45AB56331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

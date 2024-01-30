@@ -1,2 +1,2 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+# Storage Solutions
+Adds some new storage options to get your tool and equipment off the floors.
